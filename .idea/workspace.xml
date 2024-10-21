@@ -1,20 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f8d11a8-4c6d-4d8f-9522-82c42f35d805" name="Changes" comment="" />
+    <list default="true" id="0f8d11a8-4c6d-4d8f-9522-82c42f35d805" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PyATB4xAPIAutoamtionFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/test_sample2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Likhi17/PyATB4xAPIAutoamtionFramework.git",
+    "accountId": "f09a1b0a-905e-4780-9c37-2e67095a63ae"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2nhbpexXSUHNqr4ps7mTXoFPhJY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_sample.py.executor": "Run",
+    "Python tests.Python tests in test_sample2.py.executor": "Run",
+    "Python.api_constants.executor": "Run",
+    "Python.api_requests_wrapper.executor": "Run",
+    "Python.common_verification.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.payload_manager.executor": "Run",
+    "Python.utils.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/likhi/PycharmProjects/PyATB4xAPIAutoamtionFramework/src/tests"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\likhi\PycharmProjects\PyATB4xAPIAutoamtionFramework\src\tests" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
